@@ -1,0 +1,11 @@
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\bin\Debug\UDPServer_Test3.exe.config
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\bin\Debug\UDPServer_Test3.exe
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\bin\Debug\UDPServer_Test3.pdb
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServerAndClient.csprojResolveAssemblyReference.cache
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServer_Test3.Client.resources
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServer_Test3.Server.resources
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServer_Test3.Properties.Resources.resources
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServerAndClient.csproj.GenerateResource.Cache
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServerAndClient.csproj.CoreCompileInputs.cache
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServer_Test3.exe
+E:\HocTap\HK3\LapTrinhTrucQuan\DoAn\AndroidAndPc\Test3_UDP\UdpChat_ServerAndClient\UdpChat_ServerAndClient\obj\Debug\UDPServer_Test3.pdb
